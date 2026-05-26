@@ -7,7 +7,7 @@ torch        1.13.1
 dgl-lifesci  0.3.2
 rdkit        2022.9.5
 openbabel    3.1.1
-vina         1.2.7
+vina         1.2.7 (https://github.com/ccsb-scripps/AutoDock-Vina/releases)
 ```
 
 ## Usage
